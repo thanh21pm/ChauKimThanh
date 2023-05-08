@@ -1,0 +1,36 @@
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\a\Downloads\DPM205XXX-QLHS\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\BaiHomNay\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\HAPPY\OneDrive\Desktop\New folder (2)\ChauKimThanh21pm-DPM205480\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
